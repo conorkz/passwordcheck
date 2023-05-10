@@ -11,4 +11,4 @@ This script checks the reliability of your password. I used pwnedpasswords API w
 3. Run the script using the following command: `python password_checker.py <your_password>`
 
 Example:
-`python convert.py qwerty`
+`python password_checker.py qwerty`
