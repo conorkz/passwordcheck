@@ -3,6 +3,7 @@ This script checks the reliability of your password. I used pwnedpasswords API w
 ## Requirements
 - Python 3.x
 - Requests library (`pip install requests`)
+- Or just run `$ pip install -r requirements.txt`
 ## Usage
 1. Save the script to a file (e.g. `password_checker.py`).
 2. Open a command prompt or terminal and navigate to the directory where you saved the script.
